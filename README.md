@@ -3,6 +3,7 @@
 </h1>
 
 <p align="center">
+  <a href="#laptop-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-used-libraries">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-author">💻 Author</a>&nbsp;&nbsp;&nbsp;
@@ -10,7 +11,7 @@
 
 ![cover](mobile/.github/capa.png)
 
-## 💻 Projeto
+# :laptop: Projeto
 
 <div align="center">
   <div style="display:  flex; align-items: flex-start;">
@@ -21,7 +22,7 @@
   </div>
 </div>
 
-## ℹ How To Use
+# :information_source: How To Use
 
 1- Clone the repository
 
@@ -43,7 +44,7 @@ yarn api
 yarn android
 ```
 
-## 🚀 Used libraries
+# :rocket: Used libraries
 
 - [Styled-Components](https://styled-components.com/)
 - [React-Native-SVG](https://github.com/react-native-svg/react-native-svg)
@@ -58,7 +59,7 @@ yarn android
 - [Json-Server](https://styled-components.com/)
 
 
-# 👨‍💻 Author
+# :computer: Author
 
 <div align="center">
  <p>Developed by William Gomes</p>
