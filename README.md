@@ -1,21 +1,25 @@
 <h1 align="center">
-   <img alt="rentx" height="18" title="rentx" src=".github/logo.png" />
+   <img alt="rentx" height="18" title="Rentx" src=".github/logo.png" />
 </h1>
 
 <p align="center">
   <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-used-libraries">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-author">💻 Author</a>&nbsp;&nbsp;&nbsp;
-
 </p>
 
-![cover](.github/capa.png)
-
-![cover](.github/gif1.gif)
+![cover](mobile/.github/capa.png)
 
 ## 💻 Projeto
 
-RentX is an app to make car bookings with an optimistic interface and so far with a fake api.
+<div align="center">
+  <div style="display:  flex; align-items: flex-start;">
+    <p>
+  RentX is an app to make car bookings with an optimistic interface and so far with a fake api.
+  </p>
+  <img  src="https://raw.githubusercontent.com/williamjayjay/rentx-cars-mobile/master/mobile/.github/gif1.gif" >
+  </div>
+</div>
 
 ## ℹ How To Use
 
@@ -74,6 +78,7 @@ yarn android
 </table>
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-William%20Gomes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gomes-aab694149/)](https://www.linkedin.com/in/william-gomes-aab694149/)
+[![Youtube Badge](https://img.shields.io/badge/-Metalcode-FF0000?style=flat-square&labelColor=FF0000&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UC4IOuH99CdKBPydv7CW8Tdg)](https://www.youtube.com/channel/UC4IOuH99CdKBPydv7CW8Tdg)
+[![Linkedin Badge](https://img.shields.io/badge/-William%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-gomes-aab694149/)](https://www.linkedin.com/in/william-gomes-aab694149/)
 
 </div>
