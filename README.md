@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="#projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;
+  <a href="#💻-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-used-libraries">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-author">💻 Author</a>&nbsp;&nbsp;&nbsp;
