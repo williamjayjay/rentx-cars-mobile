@@ -1,5 +1,5 @@
 <h1 align="center">
-   <img alt="rentx" height="18" title="Rentx" src=".github/logo.png" />
+   <img alt="RentX" height="18" title="Rentx" src="mobile/.github/logo.png" />
 </h1>
 
 <p align="center">
