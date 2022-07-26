@@ -3,15 +3,15 @@
 </h1>
 
 <p align="center">
-  <a href="#computer-projeto">💻 Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#page_with_curl-project">📃 Application</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">ℹ️ How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-used-libraries">🚀 Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#computer-author">💻 Author</a>&nbsp;&nbsp;&nbsp;
+  <a href="#man_technologist-author">👨‍💻 Author</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 ![cover](mobile/.github/capa.png)
 
-## :computer: Projeto
+## :page_with_curl: Project
 
 <div align="center">
   <div style="display:  flex; align-items: flex-start;">
@@ -59,7 +59,7 @@ yarn android
 - [Json-Server](https://styled-components.com/)
 
 
-## :computer: Author
+## :man_technologist: Author
 
 <div align="center">
  <p>Developed by William Gomes</p>
